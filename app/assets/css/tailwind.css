@@ -1,0 +1,13 @@
+@import 'tailwindcss' source(none);
+@import 'swiper/css' source(none);
+@import 'swiper/css/effect-cards' source(none);
+@import '@nuxt/ui';
+@import './fonts.css';
+@import './base.css';
+@import './theme.css';
+
+@source "../../components/";
+@source "../../layouts/";
+@source "../../pages/";
+@source "../../app.vue";
+@source "../../error.vue";

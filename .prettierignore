@@ -1,0 +1,18 @@
+# Ignore artifacts:
+**/*.min.js
+**/*.min.css
+
+**/.cache/
+**/.tmp/
+**/.next/
+**/.idea/
+**/node_modules/
+**/dist/
+**/build/
+**/.git
+**/.svn
+**/.hg
+**/.tscofig.json
+
+
+# temporary files

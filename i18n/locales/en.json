@@ -1,0 +1,44 @@
+{
+  "backToHome": "Back to home",
+  "footer": {
+    "copyright": "Copyright © payabl. 2023, all Rights Reserved.",
+    "signUpForOurMonthlyFinanceNewsletter": "Sign up for our monthly finance newsletter!",
+    "signUp": "Sign up",
+    "findUsOnSocialMedia": "Find us on social media."
+  },
+  "section": {
+    "hero": {
+      "title": "payabl. checkout your gateway to the world",
+      "base-paragraph": "Domestic and global card acquiring, and a suite of over 300 preferred payment methods, accept payments anywhere."
+    },
+    "payment": {
+      "title": "Over 300 local and global payment methods",
+      "base-paragraph": "We offer card acquiring, banking services, local payment methods, and POS terminals — powered by easy-to-integrate tech, smart fraud prevention, and dedicated support. At payabl., we handle payments so you can focus on your business."
+    },
+    "build": {
+      "title": "Build a checkout that converts",
+      "base-paragraph": "Accept payments globally with flexible integration options."
+    },
+    "automate": {
+      "title": "Automate your payments",
+      "base-paragraph": "Streamline your payment process. Smart features that save time and boost revenue."
+    },
+    "always-in-store": {
+      "title": "Always on in-store payments",
+      "base-paragraph": "Fast, reliable POS solutions designed for modern, mobile businesses. Add payabl. in-store to your payments stack and connect your physical and digital commerce in one flow."
+    },
+    "local-payment": {
+      "title": "Local payment methods",
+      "base-paragraph": "Accept the payments your customers prefer."
+    },
+    "accept-payment": {
+      "title": "Accept payments in minutes",
+      "base-paragraph": "Pre-build plugins to popular e-commerce platforms.",
+      "article-title": "Integration for global processing",
+      "article-base-paragraph": "Skip the development time. Start taking payments immediately with our ready-made plugins and connectors."
+    },
+    "reasons": {
+      "title": "Why choose Payabl?"
+    }
+  }
+}
