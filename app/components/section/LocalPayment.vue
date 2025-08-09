@@ -41,8 +41,10 @@
         <div class="lg:max-w-[628px] lg:self-end">
           <LazyLocalPaymentSwiper v-model:active-index="activeTabIndex" :slides="localPaymentLinks">
             <template #slide="{ slide }">
-              <div class="h-[292px] overflow-hidden rounded-[16px] lg:h-[560px] lg:rounded-[32px]">
-                <img :src="slide.image" :alt="slide.title" class="size-full object-cover object-center" />
+              <div class="relative min-h-[292px] after:block after:size-0 after:pt-[56%] lg:h-[560px]">
+                <div class="absolute inset-0 overflow-hidden rounded-[16px] lg:rounded-[32px]">
+                  <img :src="slide.image" :alt="slide.title" class="size-full object-cover object-center" />
+                </div>
               </div>
             </template>
           </LazyLocalPaymentSwiper>
