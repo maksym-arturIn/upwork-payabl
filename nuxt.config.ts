@@ -7,13 +7,7 @@ const currentDir = dirname(fileURLToPath(import.meta.url));
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: [
-    '@nuxt/eslint',
-    '@nuxt/ui',
-    '@nuxt/image',
-    '@nuxtjs/i18n',
-    '@vueuse/nuxt',
-  ],
+  modules: ['@nuxt/eslint', '@nuxt/ui', '@nuxt/image', '@nuxtjs/i18n', '@vueuse/nuxt'],
   css: [join(currentDir, './app/assets/css/tailwind.css')],
   vite: {
     plugins: [tailwindcss()],
@@ -24,8 +18,8 @@ export default defineNuxtConfig({
     },
     langDir: join(currentDir, './i18n/locales'),
     locales: [
-      { code: 'uk', language: 'uk-UA', file: 'uk.json' },
       { code: 'en', language: 'en-US', file: 'en.json' },
+      { code: 'fr', language: 'fr-FR', file: 'fr.json' },
     ],
     defaultLocale: 'en',
     strategy: 'no_prefix',

@@ -1,0 +1,44 @@
+{
+  "backToHome": "Retour à l'accueil",
+  "footer": {
+    "copyright": "Copyright © payabl. 2023, tous droits réservés.",
+    "signUpForOurMonthlyFinanceNewsletter": "Abonnez-vous à notre newsletter mensuelle sur la finance !",
+    "signUp": "S'abonner",
+    "findUsOnSocialMedia": "Retrouvez-nous sur les réseaux sociaux."
+  },
+  "section": {
+    "hero": {
+      "title": "payabl. checkout — votre passerelle vers le monde",
+      "base-paragraph": "Acceptez les cartes nationales et internationales ainsi que plus de 300 méthodes de paiement populaires — acceptez les paiements partout."
+    },
+    "payment": {
+      "title": "Plus de 300 méthodes de paiement locales et mondiales",
+      "base-paragraph": "Nous proposons l'acquisition, les services bancaires, les méthodes de paiement locales et les terminaux POS — le tout s'intègre facilement, est protégé contre la fraude et accompagné d'un support professionnel. Chez payabl., nous traitons les paiements pour que vous puissiez vous concentrer sur votre entreprise."
+    },
+    "build": {
+      "title": "Créez une page de paiement qui convertit",
+      "base-paragraph": "Acceptez les paiements dans le monde entier avec des options d'intégration flexibles."
+    },
+    "automate": {
+      "title": "Automatisez vos paiements",
+      "base-paragraph": "Optimisez les processus de paiement. Des fonctionnalités intelligentes qui économisent du temps et augmentent les profits."
+    },
+    "always-in-store": {
+      "title": "Les paiements en magasin — toujours actifs",
+      "base-paragraph": "Des solutions POS rapides et fiables, créées pour l'entreprise mobile moderne. Ajoutez payabl. à votre magasin physique et combinez le commerce physique et numérique en un seul flux."
+    },
+    "local-payment": {
+      "title": "Méthodes de paiement locales",
+      "base-paragraph": "Acceptez les méthodes de paiement que vos clients choisissent."
+    },
+    "accept-payment": {
+      "title": "Commencez à accepter les paiements en quelques minutes",
+      "base-paragraph": "Des plugins pré-construits pour les plateformes e-commerce populaires.",
+      "article-title": "Intégration pour le traitement global",
+      "article-base-paragraph": "Passez l'étape du développement. Commencez à accepter les paiements immédiatement avec des plugins et connecteurs prêts à l'emploi."
+    },
+    "reasons": {
+      "title": "Pourquoi choisir Payabl ?"
+    }
+  }
+}
